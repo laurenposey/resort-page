@@ -1,41 +1,43 @@
 body{
+
+  background-image: url(http://smashingtops.com/wp-content/uploads/2014/10/10-Amazing-Tropical-Rainforest-Animals1.jpg);
   background-color: #00CED1;
   text-align: left;
-  font-family: "Georgia serif", Georgia, serif;
-  color: ;
-}
-
-title {
-  text-align: center;
-  font-family: "Georgia serif", Georgia, serif;
-  font-size: 24px;
-  color: ;
-  text-shadow: 2px 2px 1px #7CFC00;
-}
-
+  font-family: 'Cinzel', serif;
+  color: #9B30FF;
 }
 
 h1 {
   text-align: center;
-  font-family: "Georgia serif", Georgia, serif;
-  font-size: 24px;
+  font-family: 'Cinzel', serif;
+  font-size: 32px;
+  line-height: 225%;
   color: ;
-  text-shadow: 2px 2px 1px #7CFC00;
-
+  text-shadow: -12px -17px 1px #FF3030, -8px 12px 1px #7CFC00, 12px -15px 1px #FF00FF, 12px 20px 2px rgba(255,230,0,.8);
 }
 
 h2 {
   text-align: center;
-  font-family: "Georgia serif", Georgia, serif;
-  font-size: 24px;
+  font-family: 'Cinzel', serif;  font-size: 24px;
+  line-height: 190%;
   color: ;
-  text-shadow: 2px 2px 1px #7CFC00;
+  text-shadow: -22px -12px 1px #AB82FF, -14px 8px 1px #FF5333, 12px -9px 1px #FF00FF, 12px 13px 1px rgba(255,230,0,.8);
+
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  font-size: 24px;
+  line-height: 175%;
+  color: ;
+  text-shadow: -12px -4px 1px #AB82FF, -12px 25px 1px #FF6600, 12px -18px 1px #C8F526, 27px 20px 1px rgba(255,230,0,.8);
 
 }
 
 ul {
-  text-align: center;
-  font-family: "Georgia serif", Georgia, serif;
+  text-align: left;
+  font-family: 'Sigmar One', cursive;
   font-size: 24px;
   color: ;
   text-shadow: 2px 2px 1px #7CFC00;
@@ -43,8 +45,8 @@ ul {
 }
 
 ol {
-  text-align: center;
-  font-family: "Georgia serif", Georgia, serif;
+  text-align: left;
+  font-family: 'Sigmar One', cursive;
   font-size: 24px;
   color: ;
   text-shadow: 2px 2px 1px #7CFC00;
@@ -53,7 +55,7 @@ ol {
 
 p {
   text-align: center;
-  font-family: "Georgia serif", Georgia, serif;
+  font-family: 'Sigmar One', cursive;
   font-size: 24px;
   color: ;
   text-shadow: 2px 2px 1px #7CFC00;
