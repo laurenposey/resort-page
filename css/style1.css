@@ -1,26 +1,16 @@
 body{
-  background-color: #00CED1;
-  text-align: left;
-  font-family: "Georgia serif", Georgia, serif;
-  color: ;
-}
-
-title {
+  background-color: #000000;
   text-align: center;
   font-family: "Georgia serif", Georgia, serif;
-  font-size: 24px;
-  color: ;
-  text-shadow: 2px 2px 1px #7CFC00;
-}
-
+  color: #C0C0C0;
 }
 
 h1 {
   text-align: center;
   font-family: "Georgia serif", Georgia, serif;
-  font-size: 24px;
-  color: ;
-  text-shadow: 2px 2px 1px #7CFC00;
+  font-size: 32px;
+  color: #C0C0C0;
+  text-shadow: 2px 2px 1px #737373;
 
 }
 
@@ -28,34 +18,44 @@ h2 {
   text-align: center;
   font-family: "Georgia serif", Georgia, serif;
   font-size: 24px;
-  color: ;
-  text-shadow: 2px 2px 1px #7CFC00;
+  color: #C0C0C0;
+  text-shadow: 1px 1px 0px #737373;
+
+}
+
+h3 {
+  text-align: center;
+  font-family: "Georgia serif", Georgia, serif;
+  font-size: 18px;
+  color: #C0C0C0;
+  text-shadow: 1px 1px 0px #737373;
+  line-height: 300%;
 
 }
 
 ul {
-  text-align: center;
+  text-align: left;
   font-family: "Georgia serif", Georgia, serif;
-  font-size: 24px;
-  color: ;
-  text-shadow: 2px 2px 1px #7CFC00;
+  font-size: 18px;
+  color: #C0C0C0;
+  text-shadow: 2px 2px 1px #737373;
 
 }
 
 ol {
-  text-align: center;
+  text-align: left;
   font-family: "Georgia serif", Georgia, serif;
-  font-size: 24px;
-  color: ;
-  text-shadow: 2px 2px 1px #7CFC00;
+  font-size: 18px;
+  color: #C0C0C0;
+  text-shadow: 2px 2px 1px #737373;
 
 }
 
 p {
   text-align: center;
   font-family: "Georgia serif", Georgia, serif;
-  font-size: 24px;
-  color: ;
-  text-shadow: 2px 2px 1px #7CFC00;
+  font-size: 14px;
+  color: #C0C0C0;
+
 
 }
