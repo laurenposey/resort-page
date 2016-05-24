@@ -1,11 +1,61 @@
 body{
   background-color: #00CED1;
+  text-align: left;
+  font-family: "Georgia serif", Georgia, serif;
+  color: ;
+}
+
+title {
+  text-align: center;
+  font-family: "Georgia serif", Georgia, serif;
+  font-size: 24px;
+  color: ;
+  text-shadow: 2px 2px 1px #7CFC00;
+}
+
 }
 
 h1 {
-
+  text-align: center;
   font-family: "Georgia serif", Georgia, serif;
   font-size: 24px;
-  text-shadow: 6px 6px 6px #00F5FF;
+  color: ;
+  text-shadow: 2px 2px 1px #7CFC00;
+
+}
+
+h2 {
+  text-align: center;
+  font-family: "Georgia serif", Georgia, serif;
+  font-size: 24px;
+  color: ;
+  text-shadow: 2px 2px 1px #7CFC00;
+
+}
+
+ul {
+  text-align: center;
+  font-family: "Georgia serif", Georgia, serif;
+  font-size: 24px;
+  color: ;
+  text-shadow: 2px 2px 1px #7CFC00;
+
+}
+
+ol {
+  text-align: center;
+  font-family: "Georgia serif", Georgia, serif;
+  font-size: 24px;
+  color: ;
+  text-shadow: 2px 2px 1px #7CFC00;
+
+}
+
+p {
+  text-align: center;
+  font-family: "Georgia serif", Georgia, serif;
+  font-size: 24px;
+  color: ;
+  text-shadow: 2px 2px 1px #7CFC00;
 
 }
