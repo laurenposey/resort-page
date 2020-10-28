@@ -2,7 +2,7 @@
 
 #### _This is a webpage for Awesome Adventure Island, 24 May, 2016_
 
-#### By _**Lauren Posey and Joel Delight**_
+#### By _**Lauren Valkyrie and Joel Delight**_
 
 ## Description
 
@@ -26,4 +26,4 @@ _HTML and CSS were the main tools used. Google font API was used for the fonts._
 
 *Open License*
 
-Copyright (c) 2016 **_Lauren Posey & Joel Delight_**
+Copyright (c) 2016 **_Lauren Valkyrie & Joel Delight_**
